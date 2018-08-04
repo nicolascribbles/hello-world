@@ -1,2 +1,3 @@
 # hello-world
 And now for something totally different...
+My name is Nicola Reyes and I am a programming student, however I do a lot of independent research because my associates courses bore me. This is my first github account and wanted to honor the age old tradition of Hello World. :)
